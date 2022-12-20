@@ -1,5 +1,5 @@
 ### Bugs
-If you don't chat for a few seconds, It starts throwing errors (Attempting to fix)
+If you don't chat for a few seconds, It starts throwing errors (Attempting to fix) \n
 The only messages it reads is the messages it sends.
 ### Install
 Get your token, and if you run it on a public platform like replit, Go to Secrets, put key as "token" and value as your token
